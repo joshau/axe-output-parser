@@ -1,5 +1,9 @@
 # axe-output-parser
 
+## Requirements
+* Python 3.6+
+* npm 6.5.0+
+
 ## Install Dependencies
 * `python -m venv venv`
 * `pip install -r requirements.txt`
